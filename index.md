@@ -14,4 +14,4 @@ Lab 7 part 1 was another one of my favorite labs because it uses date calculatio
 
 * [Lab 10](https://github.com/cpsc-fall-2023/cpsc-120-lab-10-trieu-and-faizan)
 
-Lab 10 part 1 is my final favorite lab.The practical use of file input/output and integer manipulation makes this lab stand out. It improved my comprehension of C++ prime number verification, file management, and string reversal. The combination of practical applications, engaging tasks, and emphasis on code quality made this lab an enjoyable and enriching learning experience.
+Lab 10 part 1 is my third favorite lab.The practical use of file input/output and integer manipulation makes this lab stand out. It improved my comprehension of C++ prime number verification, file management, and string reversal. The combination of practical applications, engaging tasks, and emphasis on code quality made this lab an enjoyable and enriching learning experience.
